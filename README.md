@@ -1,2 +1,2 @@
 # i3config
-my i3 config file
+just kidding its all my configs
